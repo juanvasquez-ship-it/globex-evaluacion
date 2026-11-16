@@ -21,7 +21,7 @@ Necesitas conexión a internet y la **clave de evaluación de Globex**, que prop
 
 Para la preparación local se utiliza Windows 10 u 11 y una cuenta con permisos para instalar programas para el usuario actual. Si faltan Python o VS Code, el preparador intenta instalarlos mediante `winget`. Si el equipo no permite instalaciones o no dispone de `winget`, puedes usar Google Colab.
 
-El repositorio es privado. El profesor debe iniciar sesión en una cuenta de GitHub con acceso antes de descargarlo.
+El repositorio es público y puede descargarse sin iniciar sesión en GitHub. Para ejecutar los casos se necesita la clave autorizada del endpoint.
 
 ## Ejecutar en Windows
 
