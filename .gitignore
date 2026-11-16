@@ -1,0 +1,15 @@
+.venv/
+.venv_*/
+.vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.dpapi
+resultados_globex/
+*.log
+*.tmp
+*.zip
+Thumbs.db
+.DS_Store
